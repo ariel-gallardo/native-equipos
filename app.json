@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "native-deportes",
+    "slug": "native-deportes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "native-deportes"
+}
